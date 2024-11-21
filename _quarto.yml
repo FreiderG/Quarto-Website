@@ -13,6 +13,11 @@ website:
         text: CV
       - href: postsFile.qmd
         text: Blog
+        
+    right:
+      - href: something.qmd or link (https://github.com/FreiderG)
+        text: "{{fa stuff}} Thing"
+      
 
 format:
   html:

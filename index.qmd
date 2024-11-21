@@ -8,3 +8,5 @@ subtitle: "<h2>See the Following:</h2>"
 <p>Education</p>
 
 <p>Blog</p>
+
+#if i want an icon, go to "{{<fa x >}} thing"
