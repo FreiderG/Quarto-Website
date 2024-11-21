@@ -1,0 +1,10 @@
+---
+title: "<h1>Quarto Website</h1>"
+subtitle: "<h2>See the Following:</h2>"
+---
+
+<p>Ciriculum Vitae</p>
+
+<p>Education</p>
+
+<p>Blog</p>

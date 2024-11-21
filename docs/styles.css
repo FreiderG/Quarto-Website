@@ -1,0 +1,42 @@
+/* css styles */
+
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+}
+
+h1 {
+background-color: lightblue;
+color: #333;
+padding: 10px;
+border-radius: 5px;
+}
+
+h2 {
+background-color: lightblue;
+color: #333;
+padding: 10px;
+border-radius: 5px;
+}
+
+body {
+  background-color: snow;
+}
+
+/* Customize paragraph text */
+p {
+color: #333;
+font-size: 1.1rem;
+}
+
+/* Style links with hover effects */
+a {
+color: skyblue;
+text-decoration: none;
+}
+
+a:hover {
+color: ;
+text-decoration: underline;
+}
+
