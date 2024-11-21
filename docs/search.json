@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Ciriculum Vitae\n\n\nEducation\n\n\nBlog"
-  },
-  {
     "objectID": "postsFile.html",
     "href": "postsFile.html",
     "title": "Blog",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Ciriculum Vitae",
+    "section": "",
+    "text": "CV here:"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site:"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Ciriculum Vitae",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "CV here:"
+    "text": "Ciriculum Vitae\n\n\nEducation\n\n\nBlog"
   }
 ]
