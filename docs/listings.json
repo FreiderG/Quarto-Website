@@ -1,6 +1,8 @@
 [
   {
     "listing": "/postsFile.html",
-    "items": []
+    "items": [
+      "/posts/YY-MM-DD-Short-Description/index.html"
+    ]
   }
 ]

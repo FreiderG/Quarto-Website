@@ -4,14 +4,14 @@
     "href": "postsFile.html",
     "title": "Blog",
     "section": "",
-    "text": "No matching items"
+    "text": "First Blog Post\n\n\nBlog post for X\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Ciriculum Vitae",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "CV here:"
+    "text": "Ciriculum Vitae\n\n\nEducation\n\n\nBlog"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,17 @@
     "text": "About this site:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Ciriculum Vitae",
     "section": "",
-    "text": "Ciriculum Vitae\n\n\nEducation\n\n\nBlog"
+    "text": "CV here:"
+  },
+  {
+    "objectID": "posts/YY-MM-DD-Short-Description/index.html",
+    "href": "posts/YY-MM-DD-Short-Description/index.html",
+    "title": "First Blog Post",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{untitled,\n  author = {},\n  title = {First {Blog} {Post}},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“First Blog Post.” n.d."
   }
 ]
