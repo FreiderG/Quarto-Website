@@ -11,21 +11,28 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "Ciriculum Vitae\n\n\nEducation\n\n\nBlog"
+    "text": "Hi, my name is Gabriel. I am an Honours Economics student at The University of Winnipeg"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About this site:"
+    "text": "Reach out to me here!\n\nFirstname_lastname@gmail.com"
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "November 28, 2024\n\n\nMy favourite histogram!"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Ciriculum Vitae",
     "section": "",
-    "text": "CV here:"
+    "text": "Education\n\nBachelors of Arts Honours in Economics &nbsp The University of Winnipeg | Winnipeg, Manitoba\nSummer Student at Canada Life &nbsp Program Enablement\n\nDeveloped a Power BI dashboard to track and visualise the Program Enablement team’s deliverables, providing insights into team performance and enhancing reporting transparency &nbsp\nImproved data collection and tracking processes by redesigning an Excel-based system, standardising workflows, and increasing data accuracy without disrupting operational efficiency &nbsp\nCollaborated with team members to identify and refine key performance indicators (KPIs), ensuring the dashboard effectively reflected team contributions and aligned with organisational goals &nbsp\nGained hands-on experience with Excel and Power BI, developing advanced skills in data analysis, visualisation, and reporting to solve business challenges and drive informed decision-making.\n\nEconomics and Finance Tutoring Coordinator\n\nManaged all Economics and Finance tutoring services offered by The University of Winnipeg &nbsp\nInterviewed, appointed, and hired all Economics and Finance tutors for the 2024 - 2025 year &nbsp\nDesigned and implemented The University of Winnipeg’s transition from a legacy booking system to Microsoft Bookings, enabling more service offerings and increased reporting capabilities\n\nThe University of Winnipeg Board of Regents &nbsp Finance Committee | Province of Manitoba Student Appointee\n\nEvaluated The University of Winnipeg’s financial statements &nbsp\nAssessed and approving university funds for capital projects &nbsp\nVoted on university governance policies and procedures"
   },
   {
     "objectID": "posts/YY-MM-DD-Short-Description/index.html",

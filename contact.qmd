@@ -1,0 +1,7 @@
+---
+title: "Contact"
+---
+
+<h2>Reach out to me here!</h2>
+
+Firstname_lastname@gmail.com

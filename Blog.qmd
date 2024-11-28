@@ -1,0 +1,18 @@
+---
+title: "Blog"
+---
+
+<p>November 28, 2024</p>
+
+<h2>My favourite histogram!</h2>
+
+```{r}
+#| echo: false
+#| eval: True
+#| title: Bell Curve it up!
+
+X <- rnorm(100000,0,1)
+
+hist(X, main = "Bell Curve it up!")
+
+```

@@ -1,12 +1,6 @@
 ---
-title: "<h1>Quarto Website</h1>"
-subtitle: "<h2>See the Following:</h2>"
+title: "<h1>Home</h1>"
+subtitle: "<h2>Gabriel Freider</h2>"
 ---
 
-<p>Ciriculum Vitae</p>
-
-<p>Education</p>
-
-<p>Blog</p>
-
-#if i want an icon, go to "{{<fa x >}} thing"
+<p>Hi, my name is Gabriel. I am an Honours Economics student at The University of Winnipeg</p>

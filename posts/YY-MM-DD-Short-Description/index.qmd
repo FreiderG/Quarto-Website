@@ -2,7 +2,6 @@
 title: "First Blog Post"
 description: "Blog post for X"
 citation: true
-  #url:
 image: true
 draft: false
 ---
