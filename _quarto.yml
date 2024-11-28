@@ -3,20 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto Website"
+  title: "Gabriel Freider"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: contact.qmd
+        text: Contact
       - href: cv.qmd
         text: CV
-      - href: postsFile.qmd
+      - href: Blog.qmd
         text: Blog
-        
-    right:
-      - href: something.qmd or link (https://github.com/FreiderG)
-        text: "{{fa stuff}} Thing"
+      
       
 
 format:

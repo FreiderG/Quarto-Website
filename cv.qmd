@@ -4,21 +4,22 @@ title: "Ciriculum Vitae"
 <h2>Education</h2>
 
 **Bachelors of Arts Honours in Economics**
-&nbsp
+
 The University of Winnipeg |  Winnipeg, Manitoba
 
 
+<h2>Experience</h2>
 
 **Summer Student at Canada Life**
-&nbsp
+
 Program Enablement
 
 - Developed a Power BI dashboard to track and visualise the Program Enablement team’s deliverables, providing insights into team performance and enhancing reporting transparency
-&nbsp
+
 - Improved data collection and tracking processes by redesigning an Excel-based system, standardising workflows, and increasing data accuracy without disrupting operational efficiency
-&nbsp
+
 - Collaborated with team members to identify and refine key performance indicators (KPIs), ensuring the dashboard effectively reflected team contributions and aligned with organisational goals
-&nbsp
+
 - Gained hands-on experience with Excel and Power BI, developing advanced skills in data analysis, visualisation, and reporting to solve business challenges and drive informed decision-making.
 
 
@@ -26,21 +27,19 @@ Program Enablement
 **Economics and Finance Tutoring Coordinator**        
    				    
 - Managed all Economics and Finance tutoring services offered by The University of Winnipeg
-&nbsp
+
 - Interviewed, appointed, and hired all Economics and Finance tutors for the 2024 - 2025 year
-&nbsp
+
 - Designed and implemented The University of Winnipeg’s transition from a legacy booking system to Microsoft Bookings, enabling more service offerings and increased reporting capabilities
 
 
 
 **The University of Winnipeg Board of Regents**
-&nbsp
+
 Finance Committee | Province of Manitoba Student Appointee
 
 - Evaluated The University of Winnipeg’s financial statements
-&nbsp
 - Assessed and approving university funds for capital projects
-&nbsp
 - Voted on university governance policies and procedures
 
 
